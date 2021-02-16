@@ -6,7 +6,6 @@ from scipy.integrate import simps
 import datetime
 import time
 
-tableau_grey = '#bab0ac'
 
 def pdos_column_names( lmax, ispin ):
     if lmax == 2:
